@@ -22,8 +22,8 @@ const deckParams = [
   {
     // Example 1: User's custom parameters for this deck and its sub-decks.
     // Need to add <div id=deck deck_name="{{Deck}}"></div> to your card's front template's first line.
-    "deckName": "ALL::Learning::English::Reading",
-    "w": [1.1475, 1.401, 5.1483, -1.4221, -1.2282, 0.035, 1.4668, -0.1286, 0.7539, 1.9671, -0.2307, 0.32, 0.9451],
+    "deckName": "Español",
+    "w": [1.0362, 1.0401, 4.6487, -0.7267, -0.4444, 0.2532, 1.76, -0.0305, 1.1414, 2.1285, -0.0724, 0.3479, 1.1057],
     "requestRetention": 0.9,
     "maximumInterval": 36500,
     "easyBonus": 1.3,
@@ -31,9 +31,59 @@ const deckParams = [
   },
   {
     // Example 2: User's custom parameters for this deck and its sub-decks.
-    // Don't omit any keys.
-    "deckName": "ALL::Archive",
-    "w": [1.2879, 0.5135, 4.9532, -1.502, -1.0922, 0.0081, 1.3771, -0.0294, 0.6718, 1.8335, -0.4066, 0.7291, 0.5517],
+    // Need to add <div id=deck deck_name="{{Deck}}"></div> to your card's front template's first line.
+    "deckName": "アクセント",
+    "w": [1.0147, 1.0142, 4.9681, -0.4944, -0.5133, 0.1849, 1.4365, -0.0845, 0.8361, 2.0081, -0.1913, 0.2105, 1.0058],
+    "requestRetention": 0.9,
+    "maximumInterval": 36500,
+    "easyBonus": 1.3,
+    "hardInterval": 1.2,
+  },
+  {
+    // Example 3: User's custom parameters for this deck and its sub-decks.
+    // Need to add <div id=deck deck_name="{{Deck}}"></div> to your card's front template's first line.
+    "deckName": "オーディオ",
+    "w": [1.0495, 1.0495, 4.8256, -0.5, -0.5391, 0.1637, 1.5756, -0.01, 0.9675, 2.0069, -0.1931, 0.207, 1.0068],
+    "requestRetention": 0.9,
+    "maximumInterval": 36500,
+    "easyBonus": 1.3,
+    "hardInterval": 1.2,
+  },
+  {
+    // Example 4: User's custom parameters for this deck and its sub-decks.
+    // Need to add <div id=deck deck_name="{{Deck}}"></div> to your card's front template's first line.
+    "deckName": "単語",
+    "w": [1.2213, 1.2159, 5.1869, -0.415, -0.9416, 0.0253, 1.3746, -0.1467, 0.7811, 2.2196, -0.0352, 0.4573, 1.427],
+    "requestRetention": 0.9,
+    "maximumInterval": 36500,
+    "easyBonus": 1.3,
+    "hardInterval": 1.2,
+  },
+  {
+    // Example 5: User's custom parameters for this deck and its sub-decks.
+    // Need to add <div id=deck deck_name="{{Deck}}"></div> to your card's front template's first line.
+    "deckName": "文",
+    "w": [0.5997, 0.5996, 5.3361, -0.9904, -1.3587, 0.0795, 1.496, -0.0102, 0.9237, 1.8552, -0.2656, 0.6556, 1.6188],
+    "requestRetention": 0.9,
+    "maximumInterval": 36500,
+    "easyBonus": 1.3,
+    "hardInterval": 1.2,
+  },
+  {
+    // Example 6: User's custom parameters for this deck and its sub-decks.
+    // Need to add <div id=deck deck_name="{{Deck}}"></div> to your card's front template's first line.
+    "deckName": "漢字検定",
+    "w": [1.0238, 1.0411, 5.1543, -0.6376, -0.6544, 0.0538, 1.2665, -0.1762, 0.661, 1.9562, -0.2427, 0.2143, 0.9866],
+    "requestRetention": 0.9,
+    "maximumInterval": 36500,
+    "easyBonus": 1.3,
+    "hardInterval": 1.2,
+  },
+  {
+    // Example 7: User's custom parameters for this deck and its sub-decks.
+    // Need to add <div id=deck deck_name="{{Deck}}"></div> to your card's front template's first line.
+    "deckName": "蛭",
+    "w": [0.9469, 0.9451, 5.6242, -0.5521, -0.9617, 0.0541, 0.9559, -0.1986, 0.3344, 1.9556, -0.2214, 0.1929, 1.148,
     "requestRetention": 0.9,
     "maximumInterval": 36500,
     "easyBonus": 1.3,
