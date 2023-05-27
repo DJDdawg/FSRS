@@ -83,7 +83,7 @@ const deckParams = [
     // Example 7: User's custom parameters for this deck and its sub-decks.
     // Need to add <div id=deck deck_name="{{Deck}}"></div> to your card's front template's first line.
     "deckName": "蛭",
-    "w": [0.9469, 0.9451, 5.6242, -0.5521, -0.9617, 0.0541, 0.9559, -0.1986, 0.3344, 1.9556, -0.2214, 0.1929, 1.148,
+    "w": [0.9469, 0.9451, 5.6242, -0.5521, -0.9617, 0.0541, 0.9559, -0.1986, 0.3344, 1.9556, -0.2214, 0.1929, 1.148],
     "requestRetention": 0.9,
     "maximumInterval": 36500,
     "easyBonus": 1.3,
