@@ -54,7 +54,7 @@ const deckParams = [
     // Need to add <div id=deck deck_name="{{Deck}}"></div> to your card's front template's first line.
     "deckName": "単語",
     "w": [1.2213, 1.2159, 5.1869, -0.415, -0.9416, 0.0253, 1.3746, -0.1467, 0.7811, 2.2196, -0.0352, 0.4573, 1.427],
-    "requestRetention": 0.9,
+    "requestRetention": 0.85,
     "maximumInterval": 36500,
     "easyBonus": 1.3,
     "hardInterval": 1.2,
@@ -64,7 +64,7 @@ const deckParams = [
     // Need to add <div id=deck deck_name="{{Deck}}"></div> to your card's front template's first line.
     "deckName": "文",
     "w": [0.5997, 0.5996, 5.3361, -0.9904, -1.3587, 0.0795, 1.496, -0.0102, 0.9237, 1.8552, -0.2656, 0.6556, 1.6188],
-    "requestRetention": 0.9,
+    "requestRetention": 0.85,
     "maximumInterval": 36500,
     "easyBonus": 1.3,
     "hardInterval": 1.2,
@@ -84,7 +84,7 @@ const deckParams = [
     // Need to add <div id=deck deck_name="{{Deck}}"></div> to your card's front template's first line.
     "deckName": "蛭",
     "w": [0.9469, 0.9451, 5.6242, -0.5521, -0.9617, 0.0541, 0.9559, -0.1986, 0.3344, 1.9556, -0.2214, 0.1929, 1.148],
-    "requestRetention": 0.9,
+    "requestRetention": 0.85,
     "maximumInterval": 36500,
     "easyBonus": 1.3,
     "hardInterval": 1.2,
